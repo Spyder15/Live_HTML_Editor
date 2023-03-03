@@ -2,9 +2,8 @@
 
 Live HTML Editor is a simple HTML editor that allows you to write HTML code and see the result in real time.
 
-## Demo
+## [Demo](https://spyder15.github.io/Live_HTML_Editor/)
 
-### 
 
 ![image](https://user-images.githubusercontent.com/61316762/204096591-2043d182-10e3-4ad1-adec-34af6ed29ee9.png)
 
